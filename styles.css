@@ -394,18 +394,18 @@
 
 
 #project1{
-    background-image: url(./projects/studysync.png);
+    background-image: url(./projects/Project1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 #project2{
     margin-left: 120px;
-    background-image: url(./projects/Razorpay.png);
+    background-image: url(./projects/Project2.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 #project3{
-    background-image: url(./projects/parallax.png);
+    background-image: url(./projects/Project3.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
